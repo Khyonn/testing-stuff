@@ -1,1 +1,0 @@
-import{u as e,a as o,i as a,j as t,B as i,b as c,N as r}from"./index-DVyxM2LR.js";const p="_container_y2fip_1",u={container:p};function l(){const s=e(),n=o(a);return t.jsxs("div",{className:u.container,children:[t.jsx(i,{onClick:()=>{s(c.actions.setToken("1234"))},children:"Simulate login"}),n&&t.jsx(r,{to:"/",replace:!0})]})}const m=l;export{m as component};
