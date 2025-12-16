@@ -1,0 +1,100 @@
+[
+  {
+    "tag_id": "1234",
+    "id": "1234",
+    "text": "Une bouteille d'huile",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "1234",
+    "id": "5678",
+    "text": "Du papier toilette",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "1234",
+    "id": "9012",
+    "text": "Deux éponges",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "1234",
+    "id": "3456",
+    "text": "Des raviolis",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "5678",
+    "id": "7890",
+    "text": "Concert de Taylor Swift",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "5678",
+    "id": "1234_1234",
+    "text": "Noël bientôt",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "9012",
+    "id": "1234_5678",
+    "text": "Bon javascript c'est pas ouf mais avec du TS ...",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "9Kv6I1FOF2gIhk6wxLAX4",
+    "id": "IlQqj_qc35f2CIm8tnf-4",
+    "text": "Toutes sortes de morts-vivants",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "9Kv6I1FOF2gIhk6wxLAX4",
+    "id": "TsiZ6_1aTBt-jUoU4mgsf",
+    "text": "Des araignées géantes",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "9Kv6I1FOF2gIhk6wxLAX4",
+    "id": "J416MqFBgF0Jyx4PTiNeo",
+    "text": "Des orques et des gobelins",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "9Kv6I1FOF2gIhk6wxLAX4",
+    "id": "4woe4FrQc6MG3w47DTZHp",
+    "text": "Des trolls dans les souterrains",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "9Kv6I1FOF2gIhk6wxLAX4",
+    "id": "PGSrwHsMCT3eQTKaBy9rE",
+    "text": "Des sorciers",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "9Kv6I1FOF2gIhk6wxLAX4",
+    "id": "UYPdA96jkulOYiM7wumTM",
+    "text": "Des guerriers maudits",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  },
+  {
+    "tag_id": "9Kv6I1FOF2gIhk6wxLAX4",
+    "id": "9qF6xRP8vpycvJnevLRyg",
+    "text": "Des rats mutants",
+    "created_at": "2025-12-16",
+    "updated_at": "2025-12-16"
+  }
+]
