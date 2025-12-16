@@ -1,0 +1,26 @@
+.layout {
+  --navbar-height: 4rem;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: rgb(56, 56, 56);
+  color: white;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  height: var(--navbar-height);
+  background-color: rgba(255, 255, 255, 0.0125);
+  box-shadow:
+    0 4px 6px -1px rgb(0 0 0 / 0.1),
+    0 2px 4px -2px rgb(0 0 0 / 0.1);
+  padding-inline: 2rem;
+}
+
+.content {
+  height: 0;
+  min-height: calc(100vh - var(--navbar-height, 0px));
+}
